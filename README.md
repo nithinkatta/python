@@ -16,3 +16,6 @@ d = {k:v for k,v in d.items() lambda v:v[1]}
 s = "nithin"
 s[::-1]
 
+# bin,dec,hex,etc...
+s = "1110"
+n = int(s,10)
